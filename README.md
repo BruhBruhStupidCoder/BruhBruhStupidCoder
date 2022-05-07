@@ -1,4 +1,4 @@
-- 👋 Hiya, I’m Incognito.js
+- 👋 Hiya, I’m IncognitoMode(Dev)
 - 👀 I play Minecraft and code when i'm bored
 - 🌱 I am currently learning JS but plan on learning java/python eventually
 - 🏢 I am an owner of a hosting company -> https://dsc.gg/aerohost
