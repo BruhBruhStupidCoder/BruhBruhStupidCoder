@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognitomodedev" alt="incognitomodedev" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Project**
+- 🔭 I’m currently working on **School Project 👀**
 
 - 🌱 I’m currently learning **Flutter, Java and Kotlin**
 
