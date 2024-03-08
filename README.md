@@ -1,23 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19334
-Fork on GitHub
-5757
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm IncognitoMode</h1>
 <h3 align="center">A Self-Taught Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognitomodedev" alt="incognitomodedev" /></a> </p>
 
 - 📫 How to reach me **incognito@incognitomode.dev**
 
